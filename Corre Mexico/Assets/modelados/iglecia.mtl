@@ -1,0 +1,9 @@
+# MTL written from C:\Users\casan\OneDrive\Documentos\Uni_video\Proyecto_5\modelados\iglecia.obj
+newmtl IglesiaUVS
+Kd 0.48 0.48 0.48
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.04 0.04 0.04
+map_Kd C:\Users\casan\OneDrive\Documentos\Uni_video\modelado_2\Texturas_casas\Texturizado_iglecia_cruz.png
