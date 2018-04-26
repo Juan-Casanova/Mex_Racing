@@ -49,8 +49,8 @@ public class CARRO_INTE : MonoBehaviour
         Llanta3.motorTorque = motorForce*Vel;
         Llanta4.motorTorque = motorForce*Vel;
 
-        Neumatico1.localEulerAngles = new Vector3(0, -Llanta1.steerAngle, 0);
-        Neumatico2.localEulerAngles = new Vector3(0, -Llanta2.steerAngle, 0);
+        Neumatico1.localEulerAngles = new Vector3(0, steerAngle, 0);
+        Neumatico2.localEulerAngles = new Vector3(0, steerAngle, 0);
         //Camioneta.transform.Rotate(0, 1.2f, 0);
         // Neumatico1.localEulerAngles = new Vector3(0, steerAngle, 0);
         //Neumatico2.localEulerAngles = new Vector3(0, steerAngle, 0);
