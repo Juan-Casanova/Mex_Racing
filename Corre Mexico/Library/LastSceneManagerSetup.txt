@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Carrera_Simple.unity
-  isLoaded: 1
-  isActive: 1
