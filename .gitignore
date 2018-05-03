@@ -1,0 +1,6 @@
+.vs
+Library
+*.csproj
+*.sln
+*.apk
+Temp
